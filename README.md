@@ -31,9 +31,10 @@ $response = $weather->getWeather('深圳', 'all');
 ##第三个参数为返回值类型，可选 json 与 xml，默认 json
 $response = $weather->getWeather('深圳', 'all', 'xml');
 ```
-##Tips
+## Tips
 
-目前代码属于开发版本，有问题可以给我提issues
+目前代码属于开发版本，有问题可以给我提Issues 
+https://github.com/oscar-mx/laravel-weather/issues
 
 ## License
 
