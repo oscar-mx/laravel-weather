@@ -1,0 +1,28 @@
+{
+    "name": "oscarmx/laravel-weather",
+    "description": "a weather test SDK",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "oscar-mx",
+            "email": "oscarmx0912@outlook.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.4",
+        "phpunit/phpunit": "^8.4",
+        "mockery/mockery": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Oscarmx\\LaravelWeather\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Oscarmx\\LaravelWeather\\ServiceProvider"
+            ]
+        }
+    }
+}
