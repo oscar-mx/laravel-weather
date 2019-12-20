@@ -6,7 +6,7 @@
 ## 安装
 
 ```shell
-$ composer require oscarmx/laravel-weather:dev-master
+$ composer require oscarmx/laravel-weather -vvv
 ```
 
 ## 配置
@@ -33,7 +33,7 @@ $response = $weather->getWeather('深圳', 'all', 'xml');
 ```
 ## Tips
 
-目前代码属于开发版本，有问题可以给我提Issues 
+目前代码为1.0版本，有问题可以给我提Issues 
 https://github.com/oscar-mx/laravel-weather/issues
 
 ## License
