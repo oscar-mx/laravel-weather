@@ -38,4 +38,4 @@ https://github.com/oscar-mx/laravel-weather/issues
 
 ## License
 
-[LICENSE]https://github.com/oscar-mx/laravel-weather/blob/master/LICENSE
+[LICENSE](https://github.com/oscar-mx/laravel-weather/blob/master/LICENSE)
